@@ -1,0 +1,11 @@
+C:\Users\Diana\xampp\htdocs\Sites\Bank\obj\Debug\netcoreapp2.2\Bank.csprojAssemblyReference.cache
+C:\Users\Diana\xampp\htdocs\Sites\Bank\obj\Debug\netcoreapp2.2\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Diana\xampp\htdocs\Sites\Bank\obj\Debug\netcoreapp2.2\Bank.AssemblyInfoInputs.cache
+C:\Users\Diana\xampp\htdocs\Sites\Bank\obj\Debug\netcoreapp2.2\Bank.AssemblyInfo.cs
+C:\Users\Diana\xampp\htdocs\Sites\Bank\bin\Debug\netcoreapp2.2\Bank.deps.json
+C:\Users\Diana\xampp\htdocs\Sites\Bank\bin\Debug\netcoreapp2.2\Bank.runtimeconfig.json
+C:\Users\Diana\xampp\htdocs\Sites\Bank\bin\Debug\netcoreapp2.2\Bank.runtimeconfig.dev.json
+C:\Users\Diana\xampp\htdocs\Sites\Bank\bin\Debug\netcoreapp2.2\Bank.dll
+C:\Users\Diana\xampp\htdocs\Sites\Bank\bin\Debug\netcoreapp2.2\Bank.pdb
+C:\Users\Diana\xampp\htdocs\Sites\Bank\obj\Debug\netcoreapp2.2\Bank.dll
+C:\Users\Diana\xampp\htdocs\Sites\Bank\obj\Debug\netcoreapp2.2\Bank.pdb
