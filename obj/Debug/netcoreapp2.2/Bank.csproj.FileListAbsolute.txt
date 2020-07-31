@@ -9,3 +9,13 @@ C:\Users\Diana\xampp\htdocs\Sites\Bank\bin\Debug\netcoreapp2.2\Bank.dll
 C:\Users\Diana\xampp\htdocs\Sites\Bank\bin\Debug\netcoreapp2.2\Bank.pdb
 C:\Users\Diana\xampp\htdocs\Sites\Bank\obj\Debug\netcoreapp2.2\Bank.dll
 C:\Users\Diana\xampp\htdocs\Sites\Bank\obj\Debug\netcoreapp2.2\Bank.pdb
+C:\Users\SDEMO2\Desktop\Github\Personal-Github\SimpleBank\bin\Debug\netcoreapp2.2\Bank.deps.json
+C:\Users\SDEMO2\Desktop\Github\Personal-Github\SimpleBank\bin\Debug\netcoreapp2.2\Bank.runtimeconfig.json
+C:\Users\SDEMO2\Desktop\Github\Personal-Github\SimpleBank\bin\Debug\netcoreapp2.2\Bank.runtimeconfig.dev.json
+C:\Users\SDEMO2\Desktop\Github\Personal-Github\SimpleBank\bin\Debug\netcoreapp2.2\Bank.dll
+C:\Users\SDEMO2\Desktop\Github\Personal-Github\SimpleBank\bin\Debug\netcoreapp2.2\Bank.pdb
+C:\Users\SDEMO2\Desktop\Github\Personal-Github\SimpleBank\obj\Debug\netcoreapp2.2\Bank.csprojAssemblyReference.cache
+C:\Users\SDEMO2\Desktop\Github\Personal-Github\SimpleBank\obj\Debug\netcoreapp2.2\Bank.AssemblyInfoInputs.cache
+C:\Users\SDEMO2\Desktop\Github\Personal-Github\SimpleBank\obj\Debug\netcoreapp2.2\Bank.AssemblyInfo.cs
+C:\Users\SDEMO2\Desktop\Github\Personal-Github\SimpleBank\obj\Debug\netcoreapp2.2\Bank.dll
+C:\Users\SDEMO2\Desktop\Github\Personal-Github\SimpleBank\obj\Debug\netcoreapp2.2\Bank.pdb
